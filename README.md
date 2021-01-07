@@ -1,6 +1,6 @@
 # Calculator App
 
-This is a Reactjs Calculator Project. you can do simple calcuatations with this app using keyboard's keys. It has  History memory that can help you to do multiple calculations.
+This is a Reactjs Calculator you can do simple calcuatations with this app using keyboard's keys. It has  History memory that can help you to do multiple calculations.
 
 ## How to run it 
 
